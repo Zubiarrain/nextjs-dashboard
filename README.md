@@ -21,3 +21,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 -   .css: creando estilos como se hace normalmente llamando a una clase, id o designando algun elemento en particular
 -   tailwind: dentro del className de un elemento se colocan los estilos
 -   archivo.module.css: se pueden crear estilos propios para ser asignados en el className (recomendada)
+-   
