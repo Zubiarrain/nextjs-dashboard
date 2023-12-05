@@ -4,6 +4,13 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
+## Deploy
+
+https://nextjs-dashboard-five-bice-82.vercel.app/
+
+usuario: user@nextmail.com
+contraseña: 123456
+
 
 ## Archivos y carpetas:
 
